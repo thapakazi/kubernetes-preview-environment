@@ -142,7 +142,7 @@ class Hero extends Component {
       <div id="hero" className="Hero" style={{ backgroundImage: `url(${movieBackground})` }}>
         <div className="spring" />
         <div className="content">
-          <h1>Bohemian Rhapsody, yay !!</h1>
+          <h1>Bohemian Rhapsody</h1>
           <p>
             Queen take the music world by storm when they form the rock &apos;n&apos; roll
             band in 1970.
